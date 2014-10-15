@@ -1,10 +1,12 @@
 /************************************************************************
-* AUTHOR		: Scott Oberman
-* STUDENT ID	: 271984
-* Assignment #7	: Searching Linked Lists
-* CLASS			: CS1B
-* SECTION		: MW 10:00a - 11:00a
-* DUE DATE		: 4/14/14
+* TEAM			: Scrumptious
+* AUTHORS		: Scott Oberman, Luke Clements, Cyrus Riahi,
+*				  and Adrian Sylvester
+* STUDENT IDs	: 271984
+* Class Project	: Class Project
+* CLASS			: CS1C
+* SECTION		: TTh 6:00p - 7:20p
+* DUE DATE		: 12/9/14
 *************************************************************************/
 
 #include "header.h"
