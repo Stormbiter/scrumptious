@@ -1,0 +1,5 @@
+I the user want a program that allows me to create an account that tracks my purchases and allows m to pay for it all at once and let me chose different insurance options for the robot.
+I the user want a program that allows me to select what type of robot I would like to buy.
+I the user want a program that allows me to choose to login as admin and let me check on the client 
+  list and access different option that the user can not access.
+I the user want a program that allows me to look at the descriptions for each of the robot options 
